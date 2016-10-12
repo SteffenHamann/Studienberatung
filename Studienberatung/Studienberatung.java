@@ -1,3 +1,5 @@
+//Pull Test
+
 import java.util.*;
 
 public class Studienberatung{
@@ -27,7 +29,7 @@ public class Studienberatung{
 				System.out.println("Hast du eine berufsausbildung");
 				String a4 = scanner.next();	
 				if(a4.equals("j")){
-					System.out.println("Du Kannst ja noch später studieren");
+					System.out.println("Du Kannst ja noch spÃ¤ter studieren");
 				}
 				else if(a4.equals("n")){
 					System.out.println("Besser noch studieren");
